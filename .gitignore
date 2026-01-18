@@ -1,0 +1,5 @@
+facebook
+wordlist/allDNS.txt
+*-scanner/scanner.log
+.env
+*-scanner/venv
